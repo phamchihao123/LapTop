@@ -1,0 +1,268 @@
+{
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Laptop1",
+      "image": "images/laptop1.png",
+      "category": "mains",
+      "label": "Hot",
+      "price": "10000000",
+      "featured": true,
+      "description": "."
+    },
+    {
+      "id": 1,
+      "name": "Laptop2",
+      "image": "images/laptop2.png",
+      "category": "appetizer",
+      "label": "Hot",
+      "price": "1500000",
+      "featured": false,
+      "description": "A laptop expensive"
+    },
+    {
+      "id": 2,
+      "name": "Laptop3",
+      "image": "images/laptop3.png",
+      "category": "appetizer",
+      "label": "New",
+      "price": "30000000.",
+      "featured": false,
+      "description": "A laptop "
+    },
+    {
+      "id": 4,
+      "name": "Laptop 4",
+      "image": "images/laptop4.png",
+      "category": "dessert",
+      "label": "",
+      "price": "20000000",
+      "featured": false,
+      "description": ""
+    }
+  ],
+  "comments": [
+    {
+      "id": 0,
+      "dishId": 0,
+      "rating": 5,
+      "comment": "Laptop đẹp",
+      "author": "Hao",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 1,
+      "dishId": 0,
+      "rating": 4,
+      "comment": "Laptop xịn",
+      "author": "Binh",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 2,
+      "dishId": 0,
+      "rating": 3,
+      "comment": "Laptop tệ quá",
+      "author": "Chi",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 3,
+      "dishId": 0,
+      "rating": 4,
+      "comment": "Laptop xấu",
+      "author": "Bảo",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 4,
+      "dishId": 0,
+      "rating": 2,
+      "comment": "Laptop cũ quá!",
+      "author": "Tài",
+      "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 5,
+      "dishId": 1,
+      "rating": 5,
+      "comment": "Laptop tệ quá",
+      "author": "Trí",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 6,
+      "dishId": 1,
+      "rating": 4,
+      "comment": "Laptop màn xấu quá",
+      "author": "Văn",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 7,
+      "dishId": 1,
+      "rating": 3,
+      "comment": "Laptop cấu hình yếu",
+      "author": "Trung",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 8,
+      "dishId": 1,
+      "rating": 4,
+      "comment": "Laptop đỉnh",
+      "author": "Nam",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 9,
+      "dishId": 1,
+      "rating": 2,
+      "comment": "Laptop dơ quá",
+      "author": "Hùng",
+      "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 10,
+      "dishId": 2,
+      "rating": 5,
+      "comment": "Laptop xịn",
+      "author": "Tài",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 11,
+      "dishId": 2,
+      "rating": 4,
+      "comment": "Laptop đẹp quá",
+      "author": "My",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 12,
+      "dishId": 2,
+      "rating": 3,
+      "comment": "Laptop đẹp ghê",
+      "author": "Uyên",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 13,
+      "dishId": 2,
+      "rating": 4,
+      "comment": "Laptop hay",
+      "author": "Tú",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 14,
+      "dishId": 2,
+      "rating": 2,
+      "comment": "Laptop ngầu",
+      "author": "Trung Dũng",
+      "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 15,
+      "dishId": 3,
+      "rating": 5,
+      "comment": "Laptop dởm",
+      "author": "Vinh",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 16,
+      "dishId": 3,
+      "rating": 4,
+      "comment": "Laptop đỉnh cao",
+      "author": "Phú",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 17,
+      "dishId": 3,
+      "rating": 3,
+      "comment": "Laptop ngầu lòi",
+      "author": "Anh",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 18,
+      "dishId": 3,
+      "rating": 4,
+      "comment": "Laptop đẹp",
+      "author": "Vân",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 19,
+      "dishId": 3,
+      "rating": 2,
+      "comment": "Laptop đẹp",
+      "author": "Vũ",
+      "date": "2011-12-02T17:57:28.556094Z"
+    }
+  ],
+  "promotions": [
+    {
+      "id": 0,
+      "name": "Laptop dell",
+      "image": "images/laptop5.png",
+      "label": "New",
+      "price": "19.99",
+      "featured": true,
+      "description": "Laptop cấu hình cao "
+    }
+  ],
+  "leaders": [
+    {
+      "id": 0,
+      "name": "DũngI",
+      "image": "images/user.png",
+      "designation": "Giám đốc Dell",
+      "abbr": "CEO",
+      "featured": false,
+      "description": "Our CEO, Peter, credits his hardworking East Asian immigrant parents who undertook the arduous journey to the shores of America with the intention of giving their children the best future. His mother's wizardy in the kitchen whipping up the tastiest dishes with whatever is available inexpensively at the supermarket, was his first inspiration to create the fusion cuisines for which The Frying Pan became well known. He brings his zeal for fusion cuisines to this restaurant, pioneering cross-cultural culinary connections."
+    },
+    {
+      "id": 1,
+      "name": "Mẫn",
+      "image": "images/user.png",
+      "designation": "Thư kí",
+      "abbr": "CFO",
+      "featured": false,
+      "description": "Our CFO, Danny, as he is affectionately referred to by his colleagues, comes from a long established family tradition in farming and produce. His experiences growing up on a farm in the Australian outback gave him great appreciation for varieties of food sources. As he puts it in his own words, Everything that runs, wins, and everything that stays, pays!"
+    },
+    {
+      "id": 2,
+      "name": "Vinh",
+      "image": "images/user.png",
+      "designation": "Trợ lí",
+      "abbr": "CTO",
+      "featured": false,
+      "description": "Blessed with the most discerning gustatory sense, Agumbe, our CFO, personally ensures that every dish that we serve meets his exacting tastes. Our chefs dread the tongue lashing that ensues if their dish does not meet his exacting standards. He lives by his motto, You click only if you survive my lick."
+    },
+    {
+      "id": 3,
+      "name": "Minh",
+      "image": "images/user.png",
+      "designation": "Trưởng phòng",
+      "abbr": "EC",
+      "featured": true,
+      "description": "Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. He says, Put together the cuisines from the two craziest cultures, and you get a winning hit! Amma Mia!"
+    }
+  ],
+  "feedback": [
+    {
+      "firstname": "fdas",
+      "lastname": "afds",
+      "telnum": "134113",
+      "email": "dafdads@daffas.dfdafd",
+      "agree": true,
+      "contactType": "Email",
+      "message": "afadsfds",
+      "date": "2017-12-04T09:41:49.890Z",
+      "id": 1
+    }
+  ]
+}
